@@ -1,0 +1,14 @@
+# Ignorar la carpeta de compilación
+/target/
+
+# Archivos de configuración de IDEs comunes
+*.class
+*.log
+*.iml
+*.ipr
+*.iws
+.idea/
+.settings/
+.classpath
+.project
+.vscode/
